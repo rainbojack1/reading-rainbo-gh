@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reading-rainbo-gh/static/css/main.b100e6da.chunk.css",
+    "main.js": "/reading-rainbo-gh/static/js/main.45d28318.chunk.js",
+    "main.js.map": "/reading-rainbo-gh/static/js/main.45d28318.chunk.js.map",
+    "runtime-main.js": "/reading-rainbo-gh/static/js/runtime-main.e05a874f.js",
+    "runtime-main.js.map": "/reading-rainbo-gh/static/js/runtime-main.e05a874f.js.map",
+    "static/js/2.0941efac.chunk.js": "/reading-rainbo-gh/static/js/2.0941efac.chunk.js",
+    "static/js/2.0941efac.chunk.js.map": "/reading-rainbo-gh/static/js/2.0941efac.chunk.js.map",
+    "index.html": "/reading-rainbo-gh/index.html",
+    "precache-manifest.db516d7a4b376febc812a74253a139c7.js": "/reading-rainbo-gh/precache-manifest.db516d7a4b376febc812a74253a139c7.js",
+    "service-worker.js": "/reading-rainbo-gh/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/reading-rainbo-gh/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/reading-rainbo-gh/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e05a874f.js",
+    "static/js/2.0941efac.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.45d28318.chunk.js"
+  ]
+}
